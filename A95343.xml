@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July the 12th. 1642 Truths from York, Hull, and other places.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95343</idno>
+            <idno type="STC">Wing T3171</idno>
+            <idno type="STC">Thomason 669.f.6[52]</idno>
+            <idno type="STC">ESTC R212417</idno>
+            <idno type="EEBO-CITATION">99871041</idno>
+            <idno type="PROQUEST">99871041</idno>
+            <idno type="VID">160913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160913)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[52])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July the 12th. 1642 Truths from York, Hull, and other places.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:160913:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>July the 12<hi rend="sup">th</hi>. 1642.</date>
+               </dateline>
+            </opener>
+            <head>Truths from York, Hull, and other places.</head>
+            <p>ON Sunday night laſt His Majeſty had a Poſte come unto him, that the Ship <hi>Providence</hi> was driven a ground
+neere Hull, by a Ship imployed by the Parliament; and that the Lo: <hi>Digbie</hi> with other Cavaliers were in the
+Ship. It ſo pleaſed the Court, that an Alarum was ſtruck, every man crying, <hi>Horſe, Horſe, Arme, Arme.</hi> Sir
+<hi>Thomas Metham</hi> received command to raiſe his Regiment; Sir <hi>Robert Strictlands</hi> Regiment was commanded to march;
+the Lord Mayor in perſon ran like a mad man to drive horſes in the field, to haſten away the baggage; the King went
+away in all haſte towards <hi>Beverley</hi> on Munday morning. Sir <hi>Fra: Wortley</hi> and <hi>Metham</hi> were deſigned to cut the freſh
+water River; but the great prejudice the Inhabitants, neere their quarters, were like to have by that deſigne, diver<g ref="char:EOLhyphen"/>ted
+them from going on. The Arch-Biſhop of Yorke gloried much in the arrivall of this Ship and Ordnance. Sir <hi>Ralph
+Hopton,</hi> and Sir <hi>Chriſtopher Hatton,</hi> with ſome other Members of the Houſe of Commons, went in perſon this week to the
+Leagre, which at this time is within a mile and a quarter of Hull, where they entrench themſelves: and as I underſtand
+from a good hand, ſome twenty of the common ſouldiers were enforced by ſome of the Cavaliers to make an attempt
+upon the ſtone Sluce, within three quarters of a mile of the towne; but Sir <hi>John Hotham</hi> diſcharged his Canon on each
+ſide them, and they were glad to depart, ſome of them being ſtruck dead for a time with the wafte of the bullets. It is an
+admiration unto us, how the Commanders in <hi>Ireland,</hi> (who are imployed by the Parliament, to reduce thoſe bloud<g ref="char:EOLhyphen"/>thirſty
+Rebels) could have ſuch private intelligence, to come over at this inſtant of time. We are ſorry they have ſo
+little conſcience, to leave their killing Rebels and Traitors to the King and all his Kingdomes, and come hither to engage
+themſelves againſt the Kings owne ſubjects in this Kingdome, as at this time divers of them are. I heare a good report
+of Captaine <hi>Lloyd,</hi> (the Enginier and Quarter-maſter for the whole Armie in <hi>Ireland,</hi> and imployed by the Parliament)
+he had good fortune to come in this nicke of time; His Majeſty received him with ſuch great joy, that he would not ſuf<g ref="char:EOLhyphen"/>fer
+him to ſalute his wife, but took him to the ſiege againſt <hi>Hull,</hi> with divers chiefe Commanders more that are come out
+of <hi>Ireland,</hi> (we all thinke) to adviſe the gaining of <hi>Hull,</hi> eſpecially becauſe the proclaimed Traitor, Lord <hi>Digbie,</hi> is their
+Comraig; though by advice to his Majeſty (leſt the countenancing of his Lordſhip ſhould loſe his Majeſty in the affe<g ref="char:EOLhyphen"/>ctions
+of his people) he is kept very privately at Court. It is ſtrange, that this Deſigne ſhould be ſo well known to thoſe
+of our Nation in <hi>Spaine, France, Holland,</hi> and <hi>Ireland,</hi> of the ſurpriſall of <hi>Hull,</hi> and yet that Sir <hi>John Hotham</hi> muſt be in a
+loſt condition, before there be a ſenſe of his danger amongſt our ſelves.</p>
+            <p>On Wedneſday his Majeſtie returned from <hi>Beverley</hi> to view the great appearance of horſe on the North moore;
+many hundreds were expected, I cannot ſay one hundred appeared, only nine liſted themſelves. The Gentry deſire
+not to divide the King and Parliament, and the Yeomanry ſweare they will not, and believe when any attempt is made
+upon <hi>Hull,</hi> the trained bands will be cold in that ſervice: it muſt be a ſelect number of the damme blades of Cava<g ref="char:EOLhyphen"/>liers
+and common ſouldiers that muſt doe it; and men of undaunted courage in that towne will finde them work: the
+onely difficulty we conceive will be the untowardneſſe of ſome of the Townſmen, that will endeavour to make a fra<g ref="char:EOLhyphen"/>ction
+by reaſon of want of trade and victuals, which the Parliament muſt with ſpeed ſupplie, and declare, they ſhall re<g ref="char:EOLhyphen"/>ceive
+ſatisfaction for their ſufferings, and ſend them in men and proviſions; which may come in ſafe enough by Sea,
+notwithſtanding the Ordnance planted on the mouth of <hi>Humber.</hi> Our ancient Eſquires doe take it in great indignation,
+that perſons of ſo baſe a condition as <hi>Duncombe</hi> and ſome others are of, ſhould be honoured with Knighthood, yea and
+a Barronetſhip too, in ſo much as at this time it is accounted a diſhonour to be made a Knight. In a word, the late Arri<g ref="char:EOLhyphen"/>vall
+of theſe Armes and Ammunition out of <hi>Holland,</hi> have much unſetled the affections of this Countie, calling to minde
+His Majeſties Proteſtations and Invocations, and the Declarations of the Lords againſt any preparation for war; the
+full viſage whereof appeares now to the contrary amongſt us.</p>
+            <p>Very many Papiſts reſort hither daily, which encreaſes our fears: It is given out that his Majeſty intends next for <hi>Lin<g ref="char:EOLhyphen"/>colneſhire,</hi>
+and ſo for <hi>Leiceſterſhire</hi> to enforce the Commiſſion of Array.</p>
+            <p>Here are ſeverall Popiſh Commanders come out of <hi>Flanders,</hi> who (that they might gaine the freer paſſage hither)
+confeſſe they had a Diſpenſation from the Pope, to take any Oath that ſhould be tendred to them.</p>
+            <p>In <hi>Warwickſhire</hi> the Ordinance for the <hi>Militia</hi> is moſt cheerfully obeyed. In which Countie, beſides the Trained
+Band, there appeared at the Generall Muſter, 2850. Voluntiers. And in regard of ſome combuſtions that have lately
+been in <hi>Leiceſterſhire,</hi> ſtirred up by <hi>M. Haſtings,</hi> they have ſent a proffer to <hi>Leiceſterſhire</hi> to aſſiſt them with horſe and men,
+and <hi>Northamptonſhire</hi> hath done the like.</p>
+            <p>Alſo in one of the Hundreds of <hi>Lancaſhire,</hi> there appeared at <hi>Mancheſter,</hi> in obedience to the ſaid Ordinance, about
+10000. men in Armes, crying for about halfe an houre together, <hi>For the King and Parliament, For the King &amp; Parliament.</hi>
+            </p>
+            <p>The Lord of <hi>Warwick</hi> hath taken the Kings Ship called the <hi>Lyon,</hi> in its comming from <hi>Holland.</hi>
+            </p>
+            <p>The Lord Mayor of <hi>London</hi> for many miſdemeanours was committed to the Tower, <hi>July</hi> 11. by the Houſe of Peers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the yeere, M DC XLII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
